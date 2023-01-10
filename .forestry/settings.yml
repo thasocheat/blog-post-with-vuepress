@@ -11,6 +11,8 @@ sections:
   match: "*.md"
   templates:
   - page
+- type: heading
+  label: Blogs
 - type: directory
   path: docs/_posts
   label: Posts
